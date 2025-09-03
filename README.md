@@ -22,7 +22,7 @@ I'm constantly exploring cutting-edge technologies and methodologies. Currently,
 - **Real-time Analytics**: Mastering streaming data processing and event-driven architectures.
 - **Cloud-Native Solutions**: Exploring serverless architectures (see [etl with azure functions](https://github.com/jhumigas/azfn-python-advanced-etl)) and containerized data processing on Kubernetes.
 - **AI Integration**: Implementing artificial intelligence in data engineering workflows for intelligent automation.
-- **Software Engineering Patterns**: Mastering craftsmanship through architectural patterns like Domain-Driven Design (DDD), CQRS, Event Sourcing, and clean architecture principles. Currently exploring advanced patterns for building maintainable, scalable systems. [Check out e-commerce-allocation!](https://github.com/jhumigas/cosmic-python-project)
+- **Software Engineering Patterns**: Mastering craftsmanship through architectural patterns like Domain-Driven Design (DDD), CQRS, Event Sourcing, and clean architecture principles. Currently exploring advanced patterns for building maintainable, scalable systems. Check out [here](https://github.com/jhumigas/cosmic-python-project)!
 
 ## 🤝 Collaboration
 
